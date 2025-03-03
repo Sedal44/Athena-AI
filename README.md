@@ -8,4 +8,4 @@ Athena AI ist eine interaktive Bildungs-KI, die Schülern der Klassen 1–6 hilf
 - `data/` → Gespeicherte Informationen (z. B. Fortschritte)
 - `docs/` → Dokumentation & Lernmaterialien
 
-Bleibt gespannt! 🚀
+Bleibt gespannt! 
