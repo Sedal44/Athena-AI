@@ -1,6 +1,6 @@
 # Athena AI - Kostenlose Bildung für alle!
 
-Athena AI ist eine interaktive Bildungs-KI, die Schülern der Klassen 1–6 hilft, spielerisch zu lernen.  
+Athena AI ist eine interaktive Bildungs-KI für alle.
 
 ## Ordnerstruktur
 - `frontend/` → Benutzeroberfläche (UI)
